@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to right, #6666ff 0%, #ff66cc 100%);
+}
+h1{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(171, 255, 248);
+    display: inline-block;
+    border-radius: 15px;
+}
+h2{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(171, 255, 248);
+    display: inline-block;
+    border-radius: 15px;
+}
+table{
+   
+    padding: 20px;
+    margin: 20px;
+}
+td{
+    font-size: 25px;
+    border: 2px solid aqua;
+    color: aliceblue   ;
+}
+p{
+    padding: 30px;
+    margin: 30px;
+    font-size: 30px;
+    color: aliceblue   ;
+}
+li{
+    font-size: 30px;
+    color: aliceblue;
+}
